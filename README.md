@@ -6,21 +6,21 @@
 - (i)Explore and understand the dataset, including its structure and distribution of variables.
 - (ii)Handle missing values, outliers, and any data inconsistencies to ensure the quality of the dataset.
 **Feature Engineering**
-(i) Extract relevant features from the existing dataset that could significantly impact credit card approval decisions.
-(ii) Transform categorical variables through encoding techniques for model compatibility.
+- (i) Extract relevant features from the existing dataset that could significantly impact credit card approval decisions.
+- (ii) Transform categorical variables through encoding techniques for model compatibility.
 **Model Development**
-(i) Select and implement appropriate machine learning algorithms for credit card approval prediction.
-(ii) Train the model using the preprocessed dataset, fine-tuning parameters for optimal performance.
-(iii) Evaluate the model's accuracy, precision, recall, and other relevant metrics.
+- (i) Select and implement appropriate machine learning algorithms for credit card approval prediction.
+- (ii) Train the model using the preprocessed dataset, fine-tuning parameters for optimal performance.
+- (iii) Evaluate the model's accuracy, precision, recall, and other relevant metrics.
 **Interpretability and Explainability**
-(i) Provide insights into the factors contributing to the model's predictions.
-(ii) Ensure transparency and interpretability for end-users and stakeholders.
+- (i) Provide insights into the factors contributing to the model's predictions.
+- (ii) Ensure transparency and interpretability for end-users and stakeholders.
 **Model Deployment**
-(i) Deploy the trained model in a production environment, making it accessible for real-time credit card approval predictions.
+- (i) Deploy the trained model in a production environment, making it accessible for real-time credit card approval predictions.
 **Monitoring and Maintenance**
-(i) Implement mechanisms for monitoring the model's performance over time.
-(ii) Establish protocols for periodic model updates and maintenance.
+- (i) Implement mechanisms for monitoring the model's performance over time.
+- (ii) Establish protocols for periodic model updates and maintenance.
 **Documentation and Communication**
-(i) Document the entire project, including data preprocessing steps, model development, and deployment procedures.
-(ii) Communicate findings, insights, and recommendations to stakeholders clearly and understandably.
+- (i) Document the entire project, including data preprocessing steps, model development, and deployment procedures.
+- (ii) Communicate findings, insights, and recommendations to stakeholders clearly and understandably.
 By achieving these objectives, the Credit Card Approval Prediction project aims to enhance the efficiency of credit approval processes, reduce the risk of default, and contribute to a more streamlined and data-driven decision-making approach in the financial domain.
