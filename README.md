@@ -7,8 +7,8 @@ Project Objectives:
 
 - Data Exploration and Preprocessing:
 
-Explore and understand the dataset, including its structure and distribution of variables.
-Handle missing values, outliers, and any data inconsistencies to ensure the quality of the dataset.
+- Explore and understand the dataset, including its structure and distribution of variables.
+- Handle missing values, outliers, and any data inconsistencies to ensure the quality of the dataset.
 Feature Engineering:
 
 Extract relevant features from the existing dataset that could significantly impact credit card approval decisions.
